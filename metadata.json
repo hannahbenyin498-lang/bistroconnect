@@ -1,0 +1,9 @@
+
+{
+  "name": "BistroConnect",
+  "description": "A sophisticated restaurant experience featuring an AI-powered culinary concierge, live voice reservations, and neural menu visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
